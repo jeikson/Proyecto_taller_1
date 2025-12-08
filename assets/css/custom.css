@@ -1,5 +1,5 @@
 @media (min-width: 768px) {
-    .navbar-inverse .navbar-nav>li>a {
+    #custombody .navbar-inverse .navbar-nav>li>a {
         border-right: 1px solid #fff !important;
         font-size: 23px !important;
         font-weight: bold !important;
