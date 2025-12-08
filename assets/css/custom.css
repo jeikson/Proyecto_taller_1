@@ -5,4 +5,20 @@
         font-weight: bold !important;
         color: #14ffcb !important;
     }
+
+
+    #custombody .navbar-inverse .navbar-nav>li>a:hover {
+        border-right: 1px solid #fff !important;
+        font-size: 23px !important;
+        font-weight: bold !important;
+        color: #fff !important;
+    }
+
+     #custombody .navbar-inverse .navbar-nav>li>a:active {
+        border-right: 1px solid #fff !important;
+        font-size: 23px !important;
+        font-weight: bold !important;
+        color: #fff !important;
+    }
+
 }
