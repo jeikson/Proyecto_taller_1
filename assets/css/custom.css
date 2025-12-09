@@ -1,4 +1,5 @@
 @media (min-width: 768px) {
+
     #custombody .navbar-inverse .navbar-nav>li>a {
         border-right: 1px solid #fff !important;
         font-size: 23px !important;
@@ -6,15 +7,23 @@
         color: #14ffcb !important;
     }
 
-
     #custombody .navbar-inverse .navbar-nav>li>a:hover {
-       
         color: #fff !important;
     }
-
-     #custombody .navbar-inverse .navbar-nav>li>a:active {
+   #custombody .navbar-inverse .navbar-nav>li>a:active {
         
         color: #fff !important;
     }
+    #menu .navbar-nav>li>a {
+        
+        font-size: 23px !important;
+        
+    }
+    
+}
 
+
+#menu .nav>li>a {
+    font-size: 23px !important;
+  
 }
